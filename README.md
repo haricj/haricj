@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haricj
 - 👀 I’m interested in API Development
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Power BI and Power App
 - 💞️ I’m looking to collaborate on mentors
 - 📫 How to reach me ...aritharan6622@gmail.com
 
